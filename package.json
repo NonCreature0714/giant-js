@@ -1,0 +1,24 @@
+{
+  "name": "giant",
+  "version": "1.0.0",
+  "description": "A unit test library, because the other ones confuse me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonCreature0714/giant-js.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "simple"
+  ],
+  "author": "William W Brubaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NonCreature0714/giant-js/issues"
+  },
+  "homepage": "https://github.com/NonCreature0714/giant-js#readme"
+}
